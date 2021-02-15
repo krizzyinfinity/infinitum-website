@@ -1,0 +1,87 @@
+body {
+  text-align: center;
+padding: 0;
+margin: 0;
+}
+
+.mydiv1 {
+  background-image: url("space.jpg");
+  padding: 200px 0;
+
+}
+input,label {
+  display: block;
+  margin: auto;
+  border-radius: 6px;
+}
+textarea {
+  display: block;
+  margin: auto;
+  height: 150px;
+  width: 200px;
+  border-radius: 6px;
+
+}
+.div1 {
+  padding: 20px;
+  text-align: center;
+}
+button{
+  margin-top: 20px;
+  border-radius: 6px;
+  background-color: #cc0e74;
+  color: white;
+  font-size: 20px;
+}
+
+.container1 {
+  padding-top: 30px;
+
+}
+.myd {
+  background-image: url("dot_circle_design.jpg");
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+}
+.myh1 {
+  font-family: 'Source Code Pro', monospace;
+  color: white;
+  font-size: 100px;
+}
+.mycarousel {
+width: 800px;
+height: 300px;
+margin: auto;
+
+}
+.myslide {
+background-image: url("background.png");
+padding-top: 30px;
+padding-bottom: 50px;
+}
+
+ a {
+   text-decoration: none;
+   font-family: 'Merriweather', sans;
+   font-size: 40px;
+   color: white;
+   font-weight: bold;
+ }
+
+.myfont {
+
+
+  font-size: 30px;
+  font-weight: bolder;
+  color: black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+
+}
+ footer {
+   padding-top: 50px;
+   padding-bottom: 50px;
+   background-color: #1a508b;
+ }
