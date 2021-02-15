@@ -1,2 +1,2 @@
-# infinity-website
+# infinitum-website
  
